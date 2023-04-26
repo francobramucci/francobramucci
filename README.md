@@ -1,9 +1,14 @@
 I'm @francobramucci and I'm a Computer Science student from Argentina.
 Languages I program:
+
 -C & C++
+
 -Standard ML
+
 -Haskell
+
 -Python
+
 -Web Developing with HTML and CSS
 
 I took part in IOI and ICPC contests.
