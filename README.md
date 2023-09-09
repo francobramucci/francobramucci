@@ -1,4 +1,4 @@
-I'm @francobramucci and I'm a Computer Science student from Argentina.
+I'm @francobramucci, a Computer Science student from Argentina.
 
 C, C++, Standard ML, Haskell, Python, Web Developing with HTML and CSS.
 
