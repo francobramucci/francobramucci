@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Despues lo saco: https://stackoverflow.com/questions/72108697/when-i-open-unity-and-make-something-project-then-the-error-is-coming-that-no
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.0g-2ubuntu4_amd64.deb
+
+sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_amd64.deb
