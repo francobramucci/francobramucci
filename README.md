@@ -14,3 +14,5 @@ Despues lo saco: https://stackoverflow.com/questions/72108697/when-i-open-unity-
 wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 
 sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_amd64.deb
+
+sudo apt install '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev
